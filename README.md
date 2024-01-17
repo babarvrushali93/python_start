@@ -5,9 +5,9 @@
 - How web scraoers work ?
 - different types of web scrapers:
      - self-bulit web scrapers
-    -  pre-built web scrapers
-    -  browser extenstion web scrapers
-   -     cloud web scrapers
+     -  pre-built web scrapers
+     -  browser extenstion web scrapers
+     -  cloud web scrapers
 - self-bulit web scrapers(python language for web scraping)
 - install module => requests,BeautifulSoup
 - parsing the HTML in web page using python ( data extrate)
